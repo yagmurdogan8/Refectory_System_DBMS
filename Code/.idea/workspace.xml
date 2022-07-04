@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78c95bd6-987f-43e1-a163-9a8201fb761d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rcnxjDcmBqLLofTiM91MIQNQgU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.25.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16210938" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.frmIntro">
+    <configuration name="frmAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmAdd" />
+      <module name="DBMS_Phase_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmDelete" />
+      <module name="DBMS_Phase_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmIntro" />
+      <module name="DBMS_Phase_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmTable" />
+      <module name="DBMS_Phase_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmUpdate" />
+      <module name="DBMS_Phase_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.frmIntro" />
+        <item itemvalue="Application.frmTable" />
+        <item itemvalue="Application.frmAdd" />
+        <item itemvalue="Application.frmDelete" />
+        <item itemvalue="Application.frmUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78c95bd6-987f-43e1-a163-9a8201fb761d" name="Default Changelist" comment="" />
+      <created>1619284493541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619284493541</updated>
+      <workItem from="1619284496608" duration="4092000" />
+      <workItem from="1619360940224" duration="2778000" />
+      <workItem from="1619707392273" duration="75000" />
+      <workItem from="1619775551201" duration="2766000" />
+      <workItem from="1619867636922" duration="665000" />
+      <workItem from="1620071196519" duration="29000" />
+      <workItem from="1621089838792" duration="7000" />
+      <workItem from="1621366293395" duration="37000" />
+      <workItem from="1622281791116" duration="1753000" />
+      <workItem from="1622410549788" duration="44000" />
+      <workItem from="1622412849101" duration="1280000" />
+      <workItem from="1622458823766" duration="5036000" />
+      <workItem from="1622556820025" duration="4691000" />
+      <workItem from="1622623994268" duration="7403000" />
+      <workItem from="1622724012048" duration="16681000" />
+      <workItem from="1622805890169" duration="10159000" />
+      <workItem from="1622913388155" duration="2644000" />
+      <workItem from="1622969690510" duration="3435000" />
+      <workItem from="1623085407227" duration="1580000" />
+      <workItem from="1623088330523" duration="4710000" />
+      <workItem from="1623144730010" duration="7224000" />
+      <workItem from="1623190745870" duration="117000" />
+      <workItem from="1623231391441" duration="10348000" />
+      <workItem from="1623272375010" duration="1785000" />
+      <workItem from="1623274255896" duration="1481000" />
+      <workItem from="1623351681356" duration="554000" />
+      <workItem from="1623355198637" duration="10000" />
+      <workItem from="1623406364920" duration="424000" />
+      <workItem from="1623504805942" duration="1253000" />
+      <workItem from="1623507158673" duration="4258000" />
+      <workItem from="1623534735951" duration="38000" />
+      <workItem from="1623535600004" duration="444000" />
+      <workItem from="1623569139356" duration="2477000" />
+      <workItem from="1623575043018" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
